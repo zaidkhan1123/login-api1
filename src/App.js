@@ -167,7 +167,7 @@ setMatch(false);
       <div className="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
         <h1>
           <a href="http://blog.stackfindover.com/" rel="dofollow">
-            Stackfindover
+            Login
           </a>
         </h1>
       </div>
